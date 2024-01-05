@@ -1,0 +1,6 @@
+/tests/SumTest.php
+/src/sum.php
+/vendor
+/.idea
+/.phpunit.cache
+.phpunit.result.cache
